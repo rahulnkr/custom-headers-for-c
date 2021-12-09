@@ -1,2 +1,2 @@
-# custom-headers-for-c
-Custom headers to use in your programs.
+# Some basic functions header to use in your program for ease.
+
